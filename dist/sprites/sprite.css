@@ -1,0 +1,90 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-hot_03 {
+  background-image: url(sprite.png);
+  background-position: 0px -91px;
+  width: 22px;
+  height: 10px;
+}
+.icon-logo_03 {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 135px;
+  height: 42px;
+}
+.icon-nineYears_02 {
+  background-image: url(sprite.png);
+  background-position: 0px -42px;
+  width: 44px;
+  height: 49px;
+}
+.icon-phone-icon_05 {
+  background-image: url(sprite.png);
+  background-position: -122px -42px;
+  width: 13px;
+  height: 17px;
+}
+.icon-qqqqqqqq {
+  background-image: url(sprite.png);
+  background-position: -63px -62px;
+  width: 19px;
+  height: 21px;
+}
+.icon-search-icon_03 {
+  background-image: url(sprite.png);
+  background-position: -88px -42px;
+  width: 18px;
+  height: 17px;
+}
+.icon-shopping-cart_03 {
+  background-image: url(sprite.png);
+  background-position: -69px -42px;
+  width: 19px;
+  height: 17px;
+}
+.icon-tel (1) {
+  background-image: url(sprite.png);
+  background-position: -101px -62px;
+  width: 19px;
+  height: 21px;
+}
+.icon-tel (2) {
+  background-image: url(sprite.png);
+  background-position: -82px -62px;
+  width: 19px;
+  height: 21px;
+}
+.icon-tel {
+  background-image: url(sprite.png);
+  background-position: -44px -62px;
+  width: 19px;
+  height: 21px;
+}
+.icon-user-icon_07 {
+  background-image: url(sprite.png);
+  background-position: -106px -42px;
+  width: 16px;
+  height: 17px;
+}
+.icon-weixin-icon_01 {
+  background-image: url(sprite.png);
+  background-position: -44px -42px;
+  width: 25px;
+  height: 20px;
+}
